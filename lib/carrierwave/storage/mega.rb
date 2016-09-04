@@ -38,8 +38,8 @@ module CarrierWave
 
         # @config[:mega_email] ||= uploader.mega_email
         # @config[:mega_password] ||= uploader.mega_password
-        @config[:mega_email] ||= "shyammohankanojia@gmail.com"
-        @config[:mega_password] ||= "Shyam@123"
+        @config[:mega_email]
+        @config[:mega_password]
         @config
       end
 
